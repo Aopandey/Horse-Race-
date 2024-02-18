@@ -1,0 +1,3 @@
+# What is this Project?
+
+This C++ project simulates a horse race, utilizing horse and race classes to model the race dynamics. The horse class manages the horses' positions with movements determined by random coin flips, while the race class orchestrates the race, tracking progress and declaring a winner. The application prompts for a seed to randomize outcomes, with the race progress and results displayed in the console. A makefile aids in compiling and cleaning up the project. It showcases object-oriented design, randomization, and basic game mechanics within a console interface.
